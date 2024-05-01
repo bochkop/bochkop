@@ -2,6 +2,28 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am currently looking for a job as a data analyst. I completed my training in data analytics at the Karpov courses. Skills: Python, SQL, math statistics 🇷🇺</h3>
 
+### О себе
+Меня зовут Филипп Бочко, с июня 2023 года я изучаю аналитику данных. До этого я занимался администрированием сетей.  
+Для углубления знаний в анализе прошел несколько онлайн курсов, с помощью которых освоил Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта.
+На академических проектах практиковался в проведении статистических тестов, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
+
+### Контакты:
+https://t.me/ph604
+### Обучение
+
+![Screenshot_43](https://github.com/bochkop/bochkop/blob/main/kc.JPG?raw=true)
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/9e787c80-2886-48fc-b0d9-d65042bf611a/
+
+![Screenshot_44](https://github.com/bochkop/bochkop/blob/main/st1.JPG?raw=true)
+
+Сертификат доступен по ссылке https://stepik.org/cert/1511694
+
+![Screenshot_45](https://github.com/bochkop/bochkop/blob/main/st2.JPG?raw=true)
+
+Сертификат доступен по ссылке https://stepik.org/cert/1696680
+
+
 <!--
 **bochkop/bochkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

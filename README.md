@@ -12,7 +12,7 @@ https://t.me/ph604
 ### Обучение
 
 <img src="https://github.com/bochkop/bochkop/blob/main/kc.JPG?raw=true">
-![Screenshot_43](https://github.com/bochkop/bochkop/blob/main/kc.JPG?raw=true )
+
 
 Сертификат доступен по ссылке [https://lab.karpov.courses/certificate/9e787c80-2886-48fc-b0d9-d65042bf611a/](https://lab.karpov.courses/certificate/62115f7c-fe00-41d8-8fdc-3f06f338e0db/)
 
